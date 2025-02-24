@@ -30,8 +30,6 @@ Git (optional, for version control)
 
 Installation
 
-Clone the Repository
-git clone https://github.com/jeneerah34/ai-chatbot-java.git cd ai-chatbot-java
 
 Compile the Java Files
 javac Chatbot.java
